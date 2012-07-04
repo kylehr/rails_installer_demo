@@ -1,0 +1,10 @@
+Next steps:
+  mkdir rails_installer_demo
+  cd rails_installer_demo
+  git init
+  touch README
+  git add README
+  git commit -m 'first commit'
+  git remote add origin
+https://github.com/kylehr/rails_installer_demo.git
+  git push -u origin master
